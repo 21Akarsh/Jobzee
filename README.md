@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1><u>JobZee - Job Portal Website</u></h1>
 <br><br>
 
@@ -61,6 +60,3 @@ COOKIE_EXPIRE = ___<br>
 <p>VITE_REACT_APP_CHAT_API="gemini_api[aistudio.google.com]_you_can_get_ur_api"<br>
 </p>
 
-=======
-# Jobzee
->>>>>>> edce60b519758e99015c3a79f8ea717851b60e28
